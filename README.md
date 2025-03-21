@@ -1,7 +1,7 @@
 # MemoryTester - 2020
 Memory game using "Simon says" mechanic.
 
-Removed from Google Play. Apkpure link still exists. 
+Removed from Google Play. Apkpure link still exist. 
 
 https://apkpure.com/memory-tester-train-your-bra/com.IOGamesWorld.MemoryTester
 
